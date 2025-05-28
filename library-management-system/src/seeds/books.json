@@ -1,0 +1,182 @@
+[
+  {
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "isbn": "978-1-939126-01-6",
+    "genre": "Romance"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0-451-52493-5",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0-547-92822-7",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "978-0-307-58837-1",
+    "genre": "Thriller & Suspense"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn": "978-0-14-143984-6",
+    "genre": "Horror"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "isbn": "978-0-06-207350-1",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "isbn": "978-0-441-17271-9",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "isbn": "978-0-375-84220-7",
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "978-1-5032-9056-3",
+    "genre": "Romance"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "978-0-06-085052-4",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0-547-92821-0",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "978-0-307-45454-6",
+    "genre": "Thriller & Suspense"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "isbn": "978-1-5011-4297-0",
+    "genre": "Horror"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "978-0-307-47427-8",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "isbn": "978-0-441-56959-5",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "isbn": "978-1-5011-7321-9",
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "isbn": "978-0-14-312454-2",
+    "genre": "Romance"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "isbn": "978-1-4516-7331-9",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "isbn": "978-0-7564-0474-1",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "978-1-250-30169-7",
+    "genre": "Thriller & Suspense"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "isbn": "978-0-307-74365-7",
+    "genre": "Horror"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "isbn": "978-1-5052-5560-7",
+    "genre": "Mystery"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "isbn": "978-0-8125-5070-2",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "isbn": "978-1-250-08040-0",
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "isbn": "978-0-440-21256-0",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "isbn": "978-0-385-73795-1",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "isbn": "978-0-375-82669-6",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "author": "S.J. Watson",
+    "isbn": "978-0-06-206055-6",
+    "genre": "Thriller & Suspense"
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "isbn": "978-1-5011-5670-0",
+    "genre": "Horror"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "isbn": "978-0-06-207348-8",
+    "genre": "Mystery"
+  }
+]
