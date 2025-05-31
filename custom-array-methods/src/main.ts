@@ -1,4 +1,4 @@
-class MyArray<T> {
+export class MyArray<T> {
   private items: T[];
 
   constructor(...elements: T[]) {
